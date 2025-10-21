@@ -1,6 +1,13 @@
 # Hey, I'm JkFussy 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JkFussy&show_icons=true&theme=dark)
+<div align="center">
+  <a href="https://github.com/JkFussy/PlumOS">
+    <img src="assets/plumbear.svg" alt="PlumBear Logo" width="300"/>
+  </a>
+  <a href="https://linktr.ee/JkRen">
+    <img src="assets/dls.svg" alt="Desert Lands Studio Logo" width="300"/>
+  </a>
+</div>
 
 I create tools, apps, and libraries — and I'm building the **PlumBear Ecosystem** 🪶  
 Currently working on **PlumOS**, a **new universal operating system written in Rust**, featuring a **hybrid kernel**, **POSIX/BSD compatibility**, and **cross-system support**.
@@ -15,21 +22,6 @@ Aiming for a **standardized, elegant, and developer-friendly system** — not an
 ## 🌐 Languages / Языки
 
 - [English](README.md) | [Русская версия](README.ru.md)
-
----
-
-## 🖼️ PlumBear & DLS
-
-<div align="center">
-  <a href="https://github.com/JkFussy/PlumOS">
-    <img src="assets/plumbear.svg" alt="PlumBear Logo" width="128"/>
-  </a>
-  <a href="https://linktr.ee/JkRen">
-    <img src="assets/dls.svg" alt="Desert Lands Studio Logo" width="128"/>
-  </a>
-</div>
-
-> *Building the future of computing and art — one pixel and one line of Rust at a time.*
 
 ---
 
