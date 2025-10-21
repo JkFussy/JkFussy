@@ -19,12 +19,6 @@ Aiming for a **standardized, elegant, and developer-friendly system** — not an
 
 ---
 
-## 🌐 Languages / Языки
-
-- [English](README.md) | [Русская версия](README.ru.md)
-
----
-
 ## 🌍 Socials
 
 - 📱 Telegram: [@JkFussy](https://t.me/JkFussy)  
@@ -63,20 +57,3 @@ Aiming for a **standardized, elegant, and developer-friendly system** — not an
 | ⚙️ Prum64 Architecture | Native architecture for PlumOS & Otrix       |
 
 ---
-
-## 🏜 Projects
-
-- 🧩 Developer of **[PlumOS](https://github.com/JkFussy/PlumOS)** *(coming soon)*  
-- 🎨 Founder of **[Desert Lands Studio](https://linktr.ee/JkRen)** — 2D art, design, indie games like *Jumpfos*  
-- 🧠 Designer of **Otrix** language & **Prum64** architecture
-
----
-
-## 📌 Quick Links
-
-- [Telegram Profile](https://t.me/JkFussy) — Contact me directly  
-- [Linktree](https://linktr.ee/JkRen) — Portfolio, art, Patreon, games
-
----
-
-> 📣 *Follow my journey building PlumOS — a new OS from scratch, built for developers and creators.*
