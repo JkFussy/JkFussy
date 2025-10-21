@@ -23,7 +23,7 @@ PlumOS — это не Linux-дистрибутив, а **уникальная �
 
 ## 🧠 Технологии
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,assembly,linux,bsd,windows,git,blender,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,apple,linux,bsd,windows,git,blender,figma,vscode" />
 </p>
 
 **Языки программирования:** Rust, C, C++, Assembly  
