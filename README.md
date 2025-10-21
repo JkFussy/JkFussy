@@ -22,10 +22,10 @@ Aiming for a **standardized, elegant, and developer-friendly system** — not an
 
 <div align="center">
   <a href="https://github.com/JkFussy/PlumOS">
-    <img src="assets/plumbear.svg" alt="PlumBear Logo" width="200"/>
+    <img src="assets/plumbear.svg" alt="PlumBear Logo" width="128"/>
   </a>
   <a href="https://linktr.ee/JkRen">
-    <img src="assets/dls.svg" alt="Desert Lands Studio Logo" width="200"/>
+    <img src="assets/dls.svg" alt="Desert Lands Studio Logo" width="128"/>
   </a>
 </div>
 
