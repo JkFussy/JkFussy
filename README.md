@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/JkFussy/PlumOS">
-    <img src="assets/plumbear.svg" alt="PlumBear Logo" width="300"/>
+    <img src="assets/plumbear.svg" alt="PlumBear Logo" width="128"/>
   </a>
   <a href="https://linktr.ee/JkRen">
-    <img src="assets/dls.svg" alt="Desert Lands Studio Logo" width="300"/>
+    <img src="assets/dls.svg" alt="Desert Lands Studio Logo" width="128"/>
   </a>
 </div>
 
