@@ -23,7 +23,7 @@ Aiming for a **standardized, elegant, and developer-friendly system** — not an
 
 ## 🧠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,assembly,linux,bsd,windows,git,blender,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,apple,linux,bsd,windows,git,blender,figma,vscode" />
 </p>
 
 **Programming languages:** Rust, C, C++, Assembly  
